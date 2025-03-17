@@ -1,0 +1,11 @@
+{
+    "Lua.diagnostics.globals": [
+        "lib",
+        "cache",
+        "checkConditions",
+        "QBCore",
+        "QBShared",
+        "locale",
+        "name"
+    ]
+}
