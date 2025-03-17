@@ -1,0 +1,11 @@
+{
+    "notify": {
+        "job-started": "Started Recieving Orders!",
+        "order-recieved": "Order recieved, Check the GPS!",
+        "pickup-order": "Order picked up, Follow the GPS!",
+        "dropoff": "Delivered order, Wait for next one!",
+        "rep": "Your rep is: ",
+        "endjob": "You ended your job!"
+    }
+
+}
